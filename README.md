@@ -19,11 +19,9 @@ In this repository, I’ve applied KNN to [your dataset name here, e.g., Iris da
 ## 🛠️ Tech Stack
 - **Python 3.x**
 - Libraries:
-  - `numpy`
-  - `pandas`
-  - `matplotlib`
-  - `scikit-learn`
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
 
 ---
-
-## 📂 Project Structure
