@@ -1,27 +1,38 @@
-# KNN Classifier in Python 🧑‍💻
+## ⚙️ Tech Stack
 
-## 📌 Overview
-This project demonstrates the implementation of the **k‑Nearest Neighbors (KNN)** algorithm using Python.  
-KNN is a simple yet powerful supervised machine learning algorithm used for both classification and regression tasks.  
-In this repository, I’ve applied KNN to [your dataset name here, e.g., Iris dataset / custom dataset] to showcase how the algorithm works in practice.
-
----
-
-## ⚙️ Features
-- Implementation of KNN from scratch (without relying solely on scikit‑learn).
-- Comparison with scikit‑learn’s built‑in KNN classifier.
-- Data preprocessing and normalization for better accuracy.
-- Visualization of decision boundaries and classification results.
-- Easy‑to‑understand code with comments for learning purposes.
+- **Language:** Python 3.x  
+- **Libraries:**  
+  - `numpy`  
+  - `pandas`  
+  - `scikit-learn`  
+  - `matplotlib` (for visualization)  
 
 ---
 
-## 🛠️ Tech Stack
-- **Python 3.x**
-- Libraries:
-  - numpy
-  - pandas
-  - matplotlib
-  - scikit-learn
+## 📊 Implemented Algorithms
+
+- **Linear Regression**  
+  - Dataset: `housing.data`  
+  - Notebook: `linear_regression_ml.ipynb`
+
+- **K-Nearest Neighbors (KNN)**  
+  - Dataset: `car.data`, `knn_dataset`  
+  - Notebook: `knn_in_ml.ipynb`  
+  - Script: `knn_in_ml.py`
+
+- **Support Vector Machine (SVM)**  
+  - Notebook: `svm_in_ml.ipynb`  
+  - Script: `svm_in_ml.py`
+
+---
+
+## 🔮 Future Additions
+
+This repo will expand with more ML algorithms, such as:
+- Decision Trees & Random Forests
+- Logistic Regression
+- Naive Bayes
+- Gradient Boosting (XGBoost, LightGBM)
+- Neural Networks (basic ANN, CNN, RNN)
 
 ---
