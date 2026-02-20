@@ -31,7 +31,7 @@
 This repo will expand with more ML algorithms, such as:
 - Decision Trees & Random Forests
 - Logistic Regression
-- Naive Bayes
+- Naive Bayes()
 - Gradient Boosting (XGBoost, LightGBM)
 - Neural Networks (basic ANN, CNN, RNN)
 
