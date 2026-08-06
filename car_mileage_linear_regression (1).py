@@ -12,7 +12,6 @@ Original file is located at
 ### importing modules
 #### we import the nedded python modules to clean the data visuvalize the data and to use the ml model
 """
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -148,4 +147,3 @@ plt.xlabel('Feature Value')
 plt.ylabel('Mileage (mpg)')
 plt.legend()
 plt.show()
-
